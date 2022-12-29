@@ -1,10 +1,15 @@
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
 WORKDIR /Fibonacci_Docker
-RUN dotnet new console
-COPY Fibonacci_Docker/Program.cs Program.cs
+
+# Copy everything
+COPY . ./
+# Restore as distinct layers
+RUN dotnet restore
+# Build and publish a release
 RUN dotnet publish -c Release -o out
 
-FROM mcr.microsoft.com/dotnet/runtime:6.0
+# Build runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
 WORKDIR /Fibonacci_Docker
-COPY --from=build /Fibonacci_Docker/out .
+COPY --from=build-env /Fibonacci_Docker/out .
 ENTRYPOINT ["dotnet", "Fibonacci_Docker.dll"]
