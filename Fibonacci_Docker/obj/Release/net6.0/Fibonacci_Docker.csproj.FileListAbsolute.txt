@@ -1,0 +1,15 @@
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\Fibonacci_Docker.exe
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\Fibonacci_Docker.deps.json
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\Fibonacci_Docker.runtimeconfig.json
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\Fibonacci_Docker.dll
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\Fibonacci_Docker.pdb
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.csproj.AssemblyReference.cache
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.AssemblyInfoInputs.cache
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.AssemblyInfo.cs
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.csproj.CoreCompileInputs.cache
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.dll
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\refint\Fibonacci_Docker.dll
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.pdb
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\Fibonacci_Docker.genruntimeconfig.cache
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\obj\Release\net6.0\ref\Fibonacci_Docker.dll

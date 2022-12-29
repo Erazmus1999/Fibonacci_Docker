@@ -1,0 +1,5 @@
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\publish\Fibonacci_Docker.exe
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\publish\Fibonacci_Docker.dll
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\publish\Fibonacci_Docker.deps.json
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\publish\Fibonacci_Docker.runtimeconfig.json
+C:\Users\janer\source\repos\Fibonacci_Docker\Fibonacci_Docker\bin\Release\net6.0\publish\Fibonacci_Docker.pdb
